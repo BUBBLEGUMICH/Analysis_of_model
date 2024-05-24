@@ -1,1 +1,1 @@
-I understood that some features have a greater impact on the target class and that the trained model 100 predicted classes and tried to visualize it, but somehow there are not enough hard skills in visualization
+This code for the test task from HH(head hunter) about visualization result of the model for predict numbers of corners in the room by size of room
